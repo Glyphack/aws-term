@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "55a5dfae5bb4fe6488d4ce3718056e393ff0f61b",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Shaygan Hooshyari",
+      "author_email": "sh.hooshyari@gmail.com",
+      "github_username": "glyphack",
+      "project_name": "aws-term",
+      "project_slug": "aws-term",
+      "package_name": "aws_term",
+      "project_short_description": "Aesthetic AWS terminal interface",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
